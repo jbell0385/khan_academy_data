@@ -1,0 +1,27 @@
+{
+  "defaults": {
+    "protocol": "https",
+    "host": "localhost:3000"
+  },
+  "facebook": {
+    "key": "APP_ID",
+    "secret": "APP_SECRET",
+    "callback": "/hello",
+    "scope": ["public_profile", "email"]
+  },
+  "twitter": {
+    "key": "CYWF65W1qppJrjhHn5pznjaCA",
+    "secret": "N6nD43PK16PITCaK4KVynj7xi0BUhfRkgdQWi7a3FwGkkzqOhm",
+    "callback": "/hi"
+  },
+  "khan": {
+    "request_url": "CONSUMER_KEY",
+    "authorize_url": "",
+    "access_url": "",
+    "oauth": 1,
+    "nonce": true,
+    "key": "",
+    "secret": "",
+    "callback": "/hi"
+  }
+}
