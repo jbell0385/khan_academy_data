@@ -16,8 +16,6 @@
   },
   "khan": {
     "request_url": "https://www.khanacademy.org/api/auth2/request_token",
-    // "authorize_url": "https://www.khanacademy.org/api/auth2/authorize",
-    // "access_url": "https://www.khanacademy.org/api/auth2/access_token",
     "oauth": 1,
     "nonce": true,
     "key": "da62acXTZMeFB59R",
